@@ -1,0 +1,9 @@
+{
+    "livePreview.defaultPreviewPath": "/math_objects.html",
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.nextEditSuggestions.extendedRange": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "terminal.integrated.initialHintCopilotCli": false
+}
