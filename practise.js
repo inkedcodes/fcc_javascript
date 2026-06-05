@@ -1,3 +1,4 @@
+! 
 let num = 34;
 console.log(typeof num);
 

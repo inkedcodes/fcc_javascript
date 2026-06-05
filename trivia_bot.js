@@ -6,4 +6,4 @@ let favoriteLanguage = "c++";
 
 console.log(`My name is ${botName} and I live on ${botLocation}.`);
 
-console.log(`My favorite programming language is ${favoriteLanguage}.`)
+console.log(`My favorite programming language is ${favoriteLanguage}.`);
